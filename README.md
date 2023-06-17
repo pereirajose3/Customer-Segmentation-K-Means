@@ -11,3 +11,5 @@ K-means clustering: Implement the K-means algorithm to cluster customers based o
 Cluster analysis: Analyze the resulting clusters to understand the characteristics and differences among customer segments.
 Visualization: Create visualizations to present the segmented clusters and their properties, enabling clear and intuitive interpretation of the customer segments.
 Insights and recommendations: Derive meaningful insights from the customer segments and provide actionable recommendations for marketing strategies, product development, or personalized customer experiences.
+
+![Plot](C:\Users\Jose Luis\Desktop\Projects\Customer Segmentation.png)
