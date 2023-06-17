@@ -16,6 +16,7 @@ Insights and recommendations: Derive meaningful insights from the customer segme
 ![cm_seg3](https://github.com/pereirajose3/Customer-Segmentation-K-Means/assets/37916212/fb755f17-701c-4eea-b106-126aab551d82)
 ![cm_seg](https://github.com/pereirajose3/Customer-Segmentation-K-Means/assets/37916212/f6a81e7d-565c-40ee-9718-9e4fa7dc5fd9)
 ![cm_seg1](https://github.com/pereirajose3/Customer-Segmentation-K-Means/assets/37916212/408ef4b5-e275-4ee0-a371-d1dd44c934df)
+
 ![cm_seg2](https://github.com/pereirajose3/Customer-Segmentation-K-Means/assets/37916212/efcd809a-ad55-4bd0-9fa7-a1ccb3f53e89)
 
 
