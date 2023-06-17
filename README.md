@@ -1,5 +1,5 @@
 # Project Description:
-The goal of this project is to perform customer segmentation using the K-means algorithm. The dataset contains customer information including customer ID, gender, age, annual income, and spending score. Customer segmentation aims to categorize customers into distinct groups based on their similarities and differences in these variables. By clustering customers into meaningful segments, businesses can gain valuable insights for targeted marketing strategies, product recommendations, and personalized customer experiences.# Customer-Segmentation-K-Means
+The goal of this project is to perform customer segmentation using the K-means algorithm. The dataset contains customer information including customer ID, gender, age, annual income, and spending score. Customer segmentation aims to categorize customers into distinct groups based on their similarities and differences in these variables. By clustering customers into meaningful segments, businesses can gain valuable insights for targeted marketing strategies, product recommendations, and personalized customer experiences.
 
 # Problem Statement:
 The objective of this project is to utilize the K-means algorithm to segment customers based on their characteristics, specifically age, annual income, and spending score. The problem can be defined as follows:
