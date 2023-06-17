@@ -12,5 +12,5 @@ Cluster analysis: Analyze the resulting clusters to understand the characteristi
 Visualization: Create visualizations to present the segmented clusters and their properties, enabling clear and intuitive interpretation of the customer segments.
 Insights and recommendations: Derive meaningful insights from the customer segments and provide actionable recommendations for marketing strategies, product development, or personalized customer experiences.
 
-
+# 3D Cluster Visualization: Customer Segmentation Analysis
 ![cm_seg](https://github.com/pereirajose3/Customer-Segmentation-K-Means/assets/37916212/f95188f5-9bab-42f5-bc34-2e9dc7d2615a)
